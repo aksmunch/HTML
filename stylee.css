@@ -1,0 +1,39 @@
+h1{
+    font-weight:bold;
+    text-align:center;
+}
+#DSA{
+    color:red;
+}
+#FWD{
+    color:blue;
+}
+#GLB{
+    color:lightblue;
+}
+#MAI{
+    color:pink;
+}
+#CSE{
+    color:brown;
+
+}
+#sport{
+    color:orange;
+}
+#hobby{
+    color:palevioletred;
+}
+#LIB{
+    color:grey;
+}
+#lunnch{
+    writing-mode:vertical-lr;
+    text-orientation:upright;
+}
+.time{
+    background-color: aqua;
+}
+.days{
+    background-color: powderblue;
+}
